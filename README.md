@@ -1,3 +1,14 @@
+# Movie App
+
+Web app for searching for movies and view it's details.
+
+## Used technologies:
+
+    Raect
+    React Router
+    CSS
+    Bootstrap
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
